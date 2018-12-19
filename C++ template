@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+#define FOR(i,s,e) for(int i=(s);i<(int)(e);i++)
 
 int main(int argc, char **argv){	  
   
